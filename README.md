@@ -1,4 +1,7 @@
 IAD (Data mining)
-Student: Iryna Dosiak
+
+Student: Vitalii Puchak
+
 Lector: Yaroslav Vyklyuk
+
 Accepts labs: Christina Yakimishin
